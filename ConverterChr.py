@@ -30,7 +30,7 @@ def vba_chr_to_string(vba_sequence):
 # Example usage
 if __name__ == "__main__":
     # String to be converted
-    str = "Insert here the string to be converted"
+    str = "This is a test string for VBA Chr() conversion"
 
     # Convert the string into VBA Chr()
     vba_result = string_to_vba_chr(str)
